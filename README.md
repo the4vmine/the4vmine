@@ -5,7 +5,7 @@ My real name is Mohamed Amine ( Free Doxing ) . I love everything related to com
 
 
 * I love learning new technologies and skills.
-* I use arch btw, btw.
+* I use arch btw.
 * I hate JavaScript.
 * I make discord bots and backend projects.
 
